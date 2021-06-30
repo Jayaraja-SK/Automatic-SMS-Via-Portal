@@ -6,4 +6,5 @@ SMS VIA PORTAL
 4. Input: Mark List and Phone Numbers From an Excel sheet and Unique Authentication Key from a Text File.
 5. Processing: Using fast2sms https://www.fast2sms.com
 6. Output: Status of messages 
+
 Note: Messages can only be sent to Non-DND phone numbers
